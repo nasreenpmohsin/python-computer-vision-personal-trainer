@@ -4,6 +4,8 @@ This repository contains a Python project template.
 
 ## Project title
 
+Python Computer Vision
+
 ## Project statement
 
 ## Project team members
